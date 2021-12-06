@@ -1,4 +1,6 @@
-> Various gltf2 models
+> Various glb airplane models
+
+Converted to glb format.
 
 # Sources
 https://github.com/Ysurac/FlightAirMap-3dmodels
