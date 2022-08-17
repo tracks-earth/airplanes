@@ -1,0 +1,36 @@
+> Various airplane models in glb format
+
+<script type="importmap">
+  {
+    "imports": {
+      "vue": "https://unpkg.com/vue@3/dist/vue.esm-browser.js"
+    }
+  }
+</script>
+
+<div id="app">
+  <div v-for="file in files">
+    <!-- {{file}} -->
+    <a :href="file.path">{{file.name}}</a>
+    {{(file.size / 1024).toFixed()}} kB
+  </div>
+</div>
+
+<script type="module">
+  import { createApp } from "vue";
+
+  createApp({
+    data() {
+      return {
+        files: [],
+      };
+    },
+    async mounted() {
+      const files = await fetch("./assets.json")
+        .then((r) => r.json())
+        .then((obj) => obj.children);
+
+      this.files = files;
+    },
+  }).mount("#app");
+</script>

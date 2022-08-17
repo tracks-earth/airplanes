@@ -1,0 +1,302 @@
+{
+  "path": "./models",
+  "size": 1632,
+  "type": "folder",
+  "name": "models",
+  "children": [
+    {
+      "path": "./models/707.glb",
+      "size": 1423152,
+      "type": "file",
+      "name": "707.glb"
+    },
+    {
+      "path": "./models/757.glb",
+      "size": 2996536,
+      "type": "file",
+      "name": "757.glb"
+    },
+    {
+      "path": "./models/A318.glb",
+      "size": 4943180,
+      "type": "file",
+      "name": "A318.glb"
+    },
+    {
+      "path": "./models/A319.glb",
+      "size": 2182192,
+      "type": "file",
+      "name": "A319.glb"
+    },
+    {
+      "path": "./models/A320.glb",
+      "size": 3892704,
+      "type": "file",
+      "name": "A320.glb"
+    },
+    {
+      "path": "./models/A321.glb",
+      "size": 2764948,
+      "type": "file",
+      "name": "A321.glb"
+    },
+    {
+      "path": "./models/A332.glb",
+      "size": 948644,
+      "type": "file",
+      "name": "A332.glb"
+    },
+    {
+      "path": "./models/A333.glb",
+      "size": 3142252,
+      "type": "file",
+      "name": "A333.glb"
+    },
+    {
+      "path": "./models/A343.glb",
+      "size": 6339236,
+      "type": "file",
+      "name": "A343.glb"
+    },
+    {
+      "path": "./models/A350.glb",
+      "size": 3933672,
+      "type": "file",
+      "name": "A350.glb"
+    },
+    {
+      "path": "./models/A380.glb",
+      "size": 4922956,
+      "type": "file",
+      "name": "A380.glb"
+    },
+    {
+      "path": "./models/AS21.glb",
+      "size": 1382668,
+      "type": "file",
+      "name": "AS21.glb"
+    },
+    {
+      "path": "./models/AT45.glb",
+      "size": 1847844,
+      "type": "file",
+      "name": "AT45.glb"
+    },
+    {
+      "path": "./models/AT75.glb",
+      "size": 2157632,
+      "type": "file",
+      "name": "AT75.glb"
+    },
+    {
+      "path": "./models/B407.glb",
+      "size": 3050816,
+      "type": "file",
+      "name": "B407.glb"
+    },
+    {
+      "path": "./models/B747.glb",
+      "size": 3611044,
+      "type": "file",
+      "name": "B747.glb"
+    },
+    {
+      "path": "./models/B748.glb",
+      "size": 2520048,
+      "type": "file",
+      "name": "B748.glb"
+    },
+    {
+      "path": "./models/B752.glb",
+      "size": 2994212,
+      "type": "file",
+      "name": "B752.glb"
+    },
+    {
+      "path": "./models/B763.glb",
+      "size": 6095700,
+      "type": "file",
+      "name": "B763.glb"
+    },
+    {
+      "path": "./models/B767.glb",
+      "size": 6088688,
+      "type": "file",
+      "name": "B767.glb"
+    },
+    {
+      "path": "./models/B788.glb",
+      "size": 2767780,
+      "type": "file",
+      "name": "B788.glb"
+    },
+    {
+      "path": "./models/BCS1.glb",
+      "size": 3124820,
+      "type": "file",
+      "name": "BCS1.glb"
+    },
+    {
+      "path": "./models/BCS3.glb",
+      "size": 2277732,
+      "type": "file",
+      "name": "BCS3.glb"
+    },
+    {
+      "path": "./models/C182.glb",
+      "size": 5551700,
+      "type": "file",
+      "name": "C182.glb"
+    },
+    {
+      "path": "./models/C208.glb",
+      "size": 1674892,
+      "type": "file",
+      "name": "C208.glb"
+    },
+    {
+      "path": "./models/C421.glb",
+      "size": 1605364,
+      "type": "file",
+      "name": "C421.glb"
+    },
+    {
+      "path": "./models/C550.glb",
+      "size": 2628948,
+      "type": "file",
+      "name": "C550.glb"
+    },
+    {
+      "path": "./models/CRJ2.glb",
+      "size": 813268,
+      "type": "file",
+      "name": "CRJ2.glb"
+    },
+    {
+      "path": "./models/CRJ7.glb",
+      "size": 2011416,
+      "type": "file",
+      "name": "CRJ7.glb"
+    },
+    {
+      "path": "./models/CRJ9.glb",
+      "size": 2016512,
+      "type": "file",
+      "name": "CRJ9.glb"
+    },
+    {
+      "path": "./models/DHC4.glb",
+      "size": 1763076,
+      "type": "file",
+      "name": "DHC4.glb"
+    },
+    {
+      "path": "./models/DR40.glb",
+      "size": 1640232,
+      "type": "file",
+      "name": "DR40.glb"
+    },
+    {
+      "path": "./models/E145.glb",
+      "size": 1431196,
+      "type": "file",
+      "name": "E145.glb"
+    },
+    {
+      "path": "./models/E170.glb",
+      "size": 3023912,
+      "type": "file",
+      "name": "E170.glb"
+    },
+    {
+      "path": "./models/E190.glb",
+      "size": 3493372,
+      "type": "file",
+      "name": "E190.glb"
+    },
+    {
+      "path": "./models/E75L.glb",
+      "size": 3190700,
+      "type": "file",
+      "name": "E75L.glb"
+    },
+    {
+      "path": "./models/EC35.glb",
+      "size": 2649944,
+      "type": "file",
+      "name": "EC35.glb"
+    },
+    {
+      "path": "./models/GAZL.glb",
+      "size": 4625308,
+      "type": "file",
+      "name": "GAZL.glb"
+    },
+    {
+      "path": "./models/MD11.glb",
+      "size": 3482612,
+      "type": "file",
+      "name": "MD11.glb"
+    },
+    {
+      "path": "./models/P40.glb",
+      "size": 1665672,
+      "type": "file",
+      "name": "P40.glb"
+    },
+    {
+      "path": "./models/PA18.glb",
+      "size": 2271176,
+      "type": "file",
+      "name": "PA18.glb"
+    },
+    {
+      "path": "./models/PA22.glb",
+      "size": 2106632,
+      "type": "file",
+      "name": "PA22.glb"
+    },
+    {
+      "path": "./models/PA28.glb",
+      "size": 1733012,
+      "type": "file",
+      "name": "PA28.glb"
+    },
+    {
+      "path": "./models/PA32.glb",
+      "size": 1225056,
+      "type": "file",
+      "name": "PA32.glb"
+    },
+    {
+      "path": "./models/PC12.glb",
+      "size": 1711140,
+      "type": "file",
+      "name": "PC12.glb"
+    },
+    {
+      "path": "./models/PC21.glb",
+      "size": 815244,
+      "type": "file",
+      "name": "PC21.glb"
+    },
+    {
+      "path": "./models/SR22.glb",
+      "size": 1616208,
+      "type": "file",
+      "name": "SR22.glb"
+    },
+    {
+      "path": "./models/T134.glb",
+      "size": 1196520,
+      "type": "file",
+      "name": "T134.glb"
+    },
+    {
+      "path": "./models/paraglider.glb",
+      "size": 1832248,
+      "type": "file",
+      "name": "paraglider.glb"
+    }
+  ]
+}
