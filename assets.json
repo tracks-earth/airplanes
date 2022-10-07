@@ -1,9 +1,4 @@
-{
-  "path": "./models",
-  "size": 1632,
-  "type": "folder",
-  "name": "models",
-  "children": [
+[
     {
       "path": "./models/707.glb",
       "size": 1423152,
@@ -299,4 +294,3 @@
       "name": "paraglider.glb"
     }
   ]
-}
